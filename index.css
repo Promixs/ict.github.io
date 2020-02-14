@@ -1,0 +1,115 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	font-family: 'Abril Fatface', cursive;
+}
+a
+{
+	text-decoration: none;
+}
+.header
+{
+	display: flex;
+}
+.navbar 
+{
+	margin-left: 300px;
+	margin-top: 70px;
+	font-size: 18px;
+}
+.icon
+{
+	margin-left: 300px;
+	margin-top: 40px;
+}
+.navbar_link
+{
+	margin-right: 25px;
+	border: 1px solid #fff;
+	padding: 5px;
+
+}
+.navbar_link 
+{
+	text-transform: uppercase;
+}
+.navbar_link:hover
+{
+	background: #FFBC41;
+	color: #fff;
+	border-radius: 6px;
+	transition: .2s linear;
+}
+/* header end */
+.section
+{
+	width: 100%;
+	height: 600px;
+	background: #719DCA;
+}
+.section_title
+{
+	text-align: center;
+	padding-top: 120px;
+	font-size: 30px;
+	color: #fff;
+	line-height: 2px;
+}
+.section_graf
+{
+	text-align: center;
+	color: #fff;
+
+
+}
+.nitro
+{
+	text-align: center;
+	margin-top: 30px;
+}
+input
+{
+	padding: 14px;
+	margin-left: 10px;
+	width: 270px;
+
+}
+.btn_color:hover
+{
+	background: #FFBC41;
+	color: #fff;
+	border: none;
+	transition: .2s linear;
+}
+.backround_image
+{
+	width: 600px;
+	height: 370px;
+	position: absolute;
+	left: 683px;
+	top: 422px;
+}
+.bottom
+{
+	margin-top: 416px;
+	margin-left: 950px;
+}
+.bottom_link
+{
+	float: left;
+	border: 1px solid silver;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+	background: blue;
+	margin-left: 12px;
+}
+.footer
+{
+	margin-top: 160px;
+    margin-right: 600px;
+	
+	margin-left: 650px;
+	text-align: center
+}
